@@ -6,5 +6,3 @@ This is a DLL x64 ghost client with the features of an autoclicker and reach. It
 
 
 
-
-THIS CLICKER IS NOT MINE!!!
